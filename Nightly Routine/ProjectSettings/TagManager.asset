@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Blue_Ball
+  - Border
+  - explosion
+  - Enemy
+  - Bullet
+  - Deadly_Object
+  - Avatar
+  - Lightning_Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Blue Ball
+  - Bubble
+  - Bullet
+  - Enemy
+  - Shock_Wave
+  - Check_Point
+  - Lightning_Field
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 442224427
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Bottom
+    uniqueID: 1897559105
+    locked: 0
+  - name: Top
+    uniqueID: 497817127
+    locked: 0
+  - name: Very Top
+    uniqueID: 2147456637
+    locked: 0
